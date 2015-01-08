@@ -1,1 +1,42 @@
-/*font-family: 'Cinzel', serif;*/
+.content {
+	font-family: 'Cinzel', serif;
+
+}
+
+/*SOCIAL BAR SECTION*/
+
+.socialbar {
+	border:1px solid #000;
+	height: 35px;
+}
+
+.socialbar li {
+	display: inline;
+	float: right;
+}
+
+/*NAV BAR SECTION*/
+
+.navbar li {
+	display: inline;
+	clear:right;
+}
+/*JUMBOTRON SECTION*/
+
+.jumbotron {
+	border: 1px solid #000;
+	height:500px;
+}
+
+/*MISSION STATEMENT SECTION*/
+
+.mstate {
+	border:1px solid #000;
+	height: 500px;
+}
+
+/*FOOTER SECTION*/
+.footer {
+	border:1px solid #000;
+	text-align: center;
+}
