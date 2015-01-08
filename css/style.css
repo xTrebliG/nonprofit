@@ -23,6 +23,7 @@
 	margin-top: -15px;
 	font-size: 27px;
 	color: #00b2c0;
+	padding-top: 10px;
 }
 
 .socialnames li {
@@ -47,6 +48,12 @@
 	margin-right: 10px;
 }
 
+.navbar a{
+	color: #00b2c0;
+	text-decoration: none;
+	text-shadow: 1px 1px 1px #636363;
+}
+
 .navbar {
 	/*border: 1px solid #000;*/
 	width: 100%;
@@ -67,7 +74,7 @@
 /*JUMBOTRON SECTION*/
 
 .jumbotron {
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 	padding-top: 70px;
 	height:500px;
 	/*background-image: url("../images/students5.jpg");*/
@@ -98,9 +105,12 @@
 /*MISSION STATEMENT SECTION*/
 
 .mstate {
-	border:1px solid #000;
+	/*border:1px solid #000;*/
 	height: 500px;
 	text-align: center;
+	font-family: 'Cinzel', serif;
+	color: #00b2c0;
+	text-shadow: 1px 1px 1px #636363;
 	
 }
 
@@ -108,5 +118,7 @@
 .footer {
 	border:1px solid #000;
 	text-align: center;
+	color: #00b2c0;
+	text-shadow: 1px 1px 1px #636363;
 }
 
