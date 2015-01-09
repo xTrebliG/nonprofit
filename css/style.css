@@ -2,9 +2,7 @@
 	font-family: 'Cinzel', serif;
 	width: 900px;
 	margin: 0 auto;
-
 }
-
 /*SOCIAL BAR SECTION*/
 
 .socialbar {
@@ -27,7 +25,7 @@
 .socialbar .ti {
 	width: 30px
 }
-
+/*text comment*/
 .socialbar li {
 	display: inline;
 	float: right;
@@ -47,6 +45,14 @@
 
 .socialbar li a:hover {
 	color: #00b2c0;
+}
+
+.socialnames li {
+	float: right;
+	display: inline;
+	/*border: 1px solid #000;*/
+	margin-top: -18px ;
+	margin-right: 25px;
 }
 
 
@@ -166,14 +172,56 @@
 	height: 650px;
 	text-align: center;
 	font-family: 'Cinzel', serif;
-	/*color: #00b2c0;
-	font-weight: 400;*/
-	/*color: #00b2c0;*/
 	color: #000;
 	padding-bottom: 20px;
 	width: 900px;
 	
 }
+/*GET INVOLVED SECTION*/
+.get_involved{
+	margin-top: 40px;
+}
+.Desp{
+  margin-top:0px;
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 400;
+  text-align:left;
+ }
+ #hands{
+  float:left;
+  margin-top:0;
+ }
+ .content{
+  width:900px;
+  margin-top: auto;
+  font-family: 'Cinzel', serif;
+ }
+ #button1, #button2, #button3, #button4{
+  background-color:#00b2c0;
+ font-family: 'Cinzel';
+  font-style: none;
+  font-weight: bold;
+  width:150px;
+  height:20px;
+  text-decoration:none;
+ }
+ .get_involved_1, .get_involved_2, .get_involved_3, .get_involved_4{
+ 	height:350px;
+ 	margin-top:25px;
+ }
+ #coloumn1{
+ 	width:450px;
+ 	float:left;
+ 	margin-top:25px;
+ }
+ #coloumn2{
+ 	width:450px;
+ float:left;
+ margin-top:25px;
+ }
+ #button1{margin-top: 32px;}
+  #button2{margin-top: 55px;}
 
 .mstate h1 {
 	text-align: center;
@@ -236,12 +284,35 @@
 
 
 
-
 /*FOOTER SECTION*/
 .footer {
-	border:1px solid #000;
+	
 	text-align: center;
 	color: #00b2c0;
+	height: 60px;
+	clear:both;
+	width:900px;
+  margin-top: auto;
+  display:inline-block;
+}
+#quote1
+{
+margin:0px;
+border:0px;
+padding:0px;
+
+}
+#quote2
+{
+margin:0px;
+border:0px;
+padding:0px;
+}
+#logo{
+margin:0px;
+border:0px;
+padding:0px;
+color:black;
 	/*text-shadow: 1px 1px 1px #636363;*/
 	width: 100%;
 	height: 60px;

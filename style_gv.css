@@ -1,0 +1,28 @@
+.Desp{
+  float:right;
+  display:inline;
+  margin-top:100px;
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 400;
+ }
+ #hands{
+  float:right;
+ }
+ #getin
+ {
+float:left;
+margin-top: 200px;
+width:500px;
+ }
+ .get_involved{
+  width:900px;
+  margin-top: auto;
+  font-family: 'Cinzel', serif;
+ }
+ .button{
+  background-color:#00b2c0;
+ font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: bold;
+ }
