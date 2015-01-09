@@ -19,12 +19,12 @@
 
 }
 
-.socialbar .fb {
-	
+.socialbar .fb,{
+	height: 100%;
+	width: 30px
 }
 
 .socialbar .ti {
-	padding-left: 10px;
 	width: 30px
 }
 
