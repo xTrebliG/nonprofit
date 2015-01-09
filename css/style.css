@@ -106,11 +106,12 @@
 
 .mstate {
 	/*border:1px solid #000;*/
-	height: 500px;
+	height: 800px;
 	text-align: center;
 	font-family: 'Cinzel', serif;
 	color: #00b2c0;
 	text-shadow: 1px 1px 1px #636363;
+	padding-bottom: 20px;
 	
 }
 
