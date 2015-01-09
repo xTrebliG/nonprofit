@@ -104,6 +104,20 @@
   /*  padding-left:100%;*/
 
 }
+
+#jumbotroninvolved {
+	margin-top: -40px;
+	height: 520px;
+	background-image: url("../images/happykids.jpg");
+	image-size:2000px;
+	background-repeat: no-repeat;
+	background-size: cover;
+    z-index: -2;
+    margin-right: -20px;
+    margin-left: -20px;
+
+}
+
 #learningkids{
 	padding-top: 70px;
 	height: 500px;
@@ -126,11 +140,13 @@
 	opacity: 0.5;
 	/*z-index: 9999;*/
 	/*position: relative;*/
-	margin-top: 200px;
-	top: 0px; 
+	/*margin-top: 200px;
+	top: 0px; */
 	/*display: none;*/
     /*left: 0; */
+    float: right;
     width: 100%; 
+    right: 0;
 }
 
 /*#jobs {
@@ -283,18 +299,20 @@
 	color: #00b2c0;
 }
 
-.donatekids {
-	padding-top: 70px;
-	height: 500px;
+#donatekids {
+	/*padding-top: 70px;*/
+	height: 520px;
 	background-image: url("../images/students2.jpeg");
-	image-size:2000px;
+	/*image-size:2000px;*/
 	background-repeat: no-repeat;
 	background-size: cover;
-    z-index: 5;
+    z-index: -2;
     margin-right: -20px;
     margin-left: -20px;
+    margin-top: -40px;
 
 }
+
 /*FOOTER SECTION*/
 .footer {
 	
