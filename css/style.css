@@ -26,12 +26,15 @@
 	font-size: 27px;
 	color: #00b2c0;
 	padding:5px;
-	border:1px solid;
 
 }
 
-.socialbar li a:hover {
-	color: #00b2c0;
+.socialbar li a:link, .socialbar li a:visited, .socialbar{
+	color: #00b2c0;, 
+}
+
+.socialbar li a:hover{
+	text-shadow: 5px 5px 5px #636363;
 }
 
 .socialnames li {
@@ -285,29 +288,31 @@
 	width:900px;
   margin-top: auto;
   display:inline-block;
-}
-#quote1
-{
-margin:0px;
-border:0px;
-padding:0px;
 
 }
-#quote2
-{
-margin:0px;
-border:0px;
-padding:0px;
+
+.copyright {
+	margin-bottom: -50px;
 }
-#logo{
-margin:0px;
-border:0px;
-padding:0px;
-color:black;
-	/*text-shadow: 1px 1px 1px #636363;*/
+
+#quote1 {
+	margin:0px;
+	border:0px;
+	padding:0px;
+
+}
+#quote2 {
+	margin:0px;
+	border:0px;
+	padding:0px;
+}
+
+#logo {
+	border:0px;
+	padding:0px;
+	color:black;
 	width: 100%;
 	height: 60px;
-	margin: 0;
 	clear: both;
 }
 
