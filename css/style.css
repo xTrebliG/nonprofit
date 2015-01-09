@@ -127,11 +127,27 @@
     width: 100%; 
 }
 
-#h1{
-	
-}
-   
+/*#jobs {
 
+	max-height: 500px;
+	max-width: 500px;
+	padding: 5px;
+	float: left;
+	margin-left: -175px;
+}
+
+#enrollment {
+	max-height: 500px;
+	max-width: 500px;
+	padding: 5px;
+	float: left;
+}*/
+   
+.jobs {
+	max-width: 425px;
+	max-height: 425px;
+	display: inline-block;
+}
  
 /*MISSION STATEMENT SECTION*/
 
