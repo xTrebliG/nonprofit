@@ -91,7 +91,7 @@
 
 .jumbotron {
 	/*border: 1px solid #000;*/
-	padding-top: 70px;*/
+	padding-top: 70px;
 	height: 500px;
 	background-image: url("../images/students5.jpg");
 	/*background-color: black;*/
@@ -106,6 +106,18 @@
     padding-right: 20px;
     /*z-index: -2;*/
   /*  padding-left:100%;*/
+
+}
+#learningkids{
+	padding-top: 70px;
+	height: 500px;
+	background-image: url("../images/learningkids.jpg");
+	image-size:2000px;
+	background-repeat: no-repeat;
+	background-size: cover;
+    z-index: -2;
+    margin-right: -20px;
+    margin-left: -20px;
 
 }
 
@@ -124,8 +136,28 @@
     /*left: 0; */
     width: 100%; 
 }
-   
 
+/*#jobs {
+
+	max-height: 500px;
+	max-width: 500px;
+	padding: 5px;
+	float: left;
+	margin-left: -175px;
+}
+
+#enrollment {
+	max-height: 500px;
+	max-width: 500px;
+	padding: 5px;
+	float: left;
+}*/
+   
+.jobs {
+	max-width: 425px;
+	max-height: 425px;
+	display: inline-block;
+}
  
 /*MISSION STATEMENT SECTION*/
 
@@ -134,8 +166,10 @@
 	height: 650px;
 	text-align: center;
 	font-family: 'Cinzel', serif;
-	color: #00b2c0;
-	font-weight: 400;
+	/*color: #00b2c0;
+	font-weight: 400;*/
+	/*color: #00b2c0;*/
+	color: #000;
 	padding-bottom: 20px;
 	width: 900px;
 	
@@ -208,7 +242,7 @@
 	border:1px solid #000;
 	text-align: center;
 	color: #00b2c0;
-	text-shadow: 1px 1px 1px #636363;
+	/*text-shadow: 1px 1px 1px #636363;*/
 	width: 100%;
 	height: 60px;
 	margin: 0;
