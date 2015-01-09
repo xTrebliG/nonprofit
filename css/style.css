@@ -204,13 +204,15 @@
   font-family: 'Cinzel', serif;
  }
  #button1, #button2, #button3, #button4{
+
   background-color:#00b2c0;
  font-family: 'Cinzel';
   font-style: none;
   font-weight: bold;
   width:150px;
   height:20px;
-  text-decoration:none;
+  text-decoration: none;
+  border:40px;
  }
  .get_involved_1, .get_involved_2, .get_involved_3, .get_involved_4{
  	height:350px;
