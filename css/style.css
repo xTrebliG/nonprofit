@@ -89,11 +89,12 @@
     overflow: auto;
     padding-top: 100px;*/
     background-repeat: no-repeat;
-   /* background-size: cover;*/
+/*    background-size: cover;*/
     height: 45.938rem;
     width: 100%;
     margin-left: -10px;
     overflow: auto;
+    padding-right: 20px;
   /*  padding-left:100%;*/
 
 }
