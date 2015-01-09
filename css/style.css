@@ -1,5 +1,7 @@
 .content {
 	font-family: 'Cinzel', serif;
+	width: 900px;
+	margin: 0 auto;
 
 }
 
@@ -66,6 +68,8 @@
 	margin-top: 27px;
 	padding-bottom: 10px;
 	margin-left: -9px;
+	font-weight: 400;
+	font-size: 20px;
 
 
 
@@ -76,7 +80,7 @@
 .jumbotron {
 	/*border: 1px solid #000;*/
 	padding-top: 70px;
-	height:500px;
+	height: 500px;
 	/*background-image: url("../images/students5.jpg");*/
 	background-color: black;
 /*	background-position: 0 bottom;
@@ -84,16 +88,13 @@
     background-size: cover;
     overflow: auto;
     padding-top: 100px;*/
-
-    background-position: 0 bottom;
     background-repeat: no-repeat;
-    background-size: cover;
+   /* background-size: cover;*/
     height: 45.938rem;
     width: 100%;
     margin-left: -10px;
     overflow: auto;
-    padding-right: 100%;
-    padding-left:100%;
+  /*  padding-left:100%;*/
 
 }
    }
@@ -111,8 +112,12 @@
 	font-family: 'Cinzel', serif;
 	color: #00b2c0;
 	text-shadow: 1px 1px 1px #636363;
+	width: 900px;
 	
 }
+
+
+
 
 /*FOOTER SECTION*/
 .footer {
@@ -120,5 +125,6 @@
 	text-align: center;
 	color: #00b2c0;
 	text-shadow: 1px 1px 1px #636363;
+	width: 100%;
 }
 
