@@ -224,6 +224,11 @@
   height:20px;
   text-decoration: none;
   border:40px;
+  display:inline-block;
+  border: 2px solid;
+  border-radius: 25px;
+  color:white;
+  box-shadow: 10px 10px 5px #888888;
  }
 
 
