@@ -276,8 +276,18 @@
 	color: #00b2c0;
 }
 
+.donatekids {
+	padding-top: 70px;
+	height: 500px;
+	background-image: url("../images/students2.jpeg");
+	image-size:2000px;
+	background-repeat: no-repeat;
+	background-size: cover;
+    z-index: 5;
+    margin-right: -20px;
+    margin-left: -20px;
 
-
+}
 /*FOOTER SECTION*/
 .footer {
 	
