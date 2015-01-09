@@ -69,31 +69,44 @@
 
 .jumbotron {
 	/*border: 1px solid #000;*/
-	padding-top: 70px;
+	padding-top: 70px;*/
 	height: 500px;
-	/*background-image: url("../images/students5.jpg");*/
-	background-color: black;
-/*	background-position: 0 bottom;
+	background-image: url("../images/students5.jpg");
+	/*background-color: black;*/
+	background-position: 0 bottom;
     background-repeat: no-repeat;
     background-size: cover;
     overflow: auto;
-    padding-top: 100px;*/
+    padding-top: 100px;
     background-repeat: no-repeat;
-/*    background-size: cover;*/
-    height: 45.938rem;
+    background-size: cover;
+    height: 30rem;
     width: 100%;
     margin-left: -10px;
     overflow: auto;
     padding-right: 20px;
+    z-index: -2;
   /*  padding-left:100%;*/
 
 }
-   }
 
-  #jumbotron {
-  	
-  }
+#jumbotext {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-size: 100px;
+	color: #00b2c0;
+	opacity: 0.5;
+	z-index: 9999;
+	position: relative;
+	margin-top: 200px;
+	top: 0px; 
+	/*display: none;*/
+    /*left: 0; */
+    width: 100%; 
+}
+   
 
+ 
 /*MISSION STATEMENT SECTION*/
 
 .mstate {
